@@ -1,0 +1,35 @@
+{
+  "packages": [
+    {
+      "name": "StartKit",
+      "maintainer": "StartKit",
+      "websiteURL": "https://github.com/StartKit/StartKit",
+      "email": "wekingle@126.com",
+      "help": {
+        "online": "https://github.com/StartKit"
+      },
+      "platforms": [
+        {
+          "name": "StartKit Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+		  "help": {
+			"online": "https://github.com/StartKit"
+		  },
+          "url": "https://raw.githubusercontent.com/StartKit/StartKit/master/StartKit_1.0.0.zip",
+          "archiveFileName": "StartKit_1.0.0.zip",
+          "checksum": "SHA-256:06cbbf59dd5c8074e98124d6f74bd7b4cc608b8da7390c47cba9100141b30e81",
+          "size": "9879302",
+          "boards": [
+            {"name": "StartKit Uno"}
+          ],
+          "toolsDependencies": [
+          ]
+        }
+      ],
+      "tools": [ 
+      ]
+    }
+  ]
+}
