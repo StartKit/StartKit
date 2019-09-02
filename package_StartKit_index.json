@@ -19,8 +19,8 @@
 		  },
           "url": "https://raw.githubusercontent.com/StartKit/StartKit/master/StartKit_1.0.0.zip",
           "archiveFileName": "StartKit_1.0.0.zip",
-          "checksum": "SHA-256:06cbbf59dd5c8074e98124d6f74bd7b4cc608b8da7390c47cba9100141b30e81",
-          "size": "9879302",
+          "checksum": "SHA-256:92a8c9fcc07e0629604da5966f9204182b12a10a0600d58ab094fbeee3419980",
+          "size": "9897654",
           "boards": [
             {"name": "StartKit Uno"}
           ],
